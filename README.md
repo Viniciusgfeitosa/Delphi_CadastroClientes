@@ -16,4 +16,4 @@ Reforçar conceitos básicos de lógica e eventos
 
 Manter um histórico de estudos no GitHub
 
-![Tela do projeto](assets/ImagemCadastroClientes).
+![Tela do projeto](assets/ImagemCadastroClientes.png).
