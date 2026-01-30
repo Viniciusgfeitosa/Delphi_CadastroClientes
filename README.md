@@ -1,4 +1,4 @@
-<img width="1125" height="664" alt="ImagemCadastroClientes" src="https://github.com/user-attachments/assets/b7ad1e5f-1617-48b5-991e-b959597534b7" /># 📌 Delphi – Cadastro Simples de Clientes
+# 📌 Delphi – Cadastro Simples de Clientes
 
 Este repositório é um projeto de estudo em Delphi (VCL Forms) criado para praticar conceitos básicos da linguagem Object Pascal e o uso de componentes visuais.
 
